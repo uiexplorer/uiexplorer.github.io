@@ -1,0 +1,38 @@
+#skills-container {
+  margin: 30px 0px;
+}
+
+#skills-container li {
+  list-style: none;
+  display: inline-block;
+  padding-right: 15px;
+}
+
+#skills-container li img {
+  width: 48px;
+}
+
+#resume, #resume:hover {
+  color: #FFFFFF;
+  border-color: #FFFFFF;
+}
+
+#resume:hover {
+  background-color: #FFFFFF;
+  color: #1abc9c;
+}
+
+#resume h2 {
+  margin: 0px;
+  text-transform: uppercase;
+}
+
+.portfolio .portfolio-item {
+  text-align: center;
+}
+
+.experience-counter {
+  height: 75%;
+  width: 75% !important;
+  color: #2c3e50;
+}
